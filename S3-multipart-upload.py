@@ -17,7 +17,7 @@ from multiprocessing import Pool
 """
 Always multipart upload, must run as root
 
-Rerutiements:
+Requirements:
  - boto v2.38.0
  - filechunkio 1.6
  - psutil 2.2.1
